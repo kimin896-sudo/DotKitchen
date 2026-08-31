@@ -13,6 +13,8 @@
 | [05-strategies.md](./05-strategies.md) | 플레이 전략 및 빌드 예시 |
 | [06-meta-progression.md](./06-meta-progression.md) | 특성 트리, 해금 요소, 회차별 진행 |
 | [07-implementation-priority.md](./07-implementation-priority.md) | 기술 구현 우선순위 및 MVP 로드맵 |
+| [08-dev-schedule.md](./08-dev-schedule.md) | 개발 일정 (2026.09 ~ 2027.04.01) |
+| [09-weekly-schedule.md](./09-weekly-schedule.md) | **주차별 개발 일정 (W01~W31)** |
 
 ## 핵심 컨셉
 
