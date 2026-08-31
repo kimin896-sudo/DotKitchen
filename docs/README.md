@@ -15,6 +15,7 @@
 | [07-implementation-priority.md](./07-implementation-priority.md) | 기술 구현 우선순위 및 MVP 로드맵 |
 | [08-dev-schedule.md](./08-dev-schedule.md) | 개발 일정 (2026.09 ~ 2027.04.01) |
 | [09-weekly-schedule.md](./09-weekly-schedule.md) | **주차별 개발 일정 (W01~W31)** |
+| [10-design-priority.md](./10-design-priority.md) | **디자인 우선순위 (P0~P4)** |
 
 ## 핵심 컨셉
 
