@@ -389,6 +389,7 @@ M4·M5 전 필요. UI 비중이 큼.
 
 ## 관련 문서
 
+- [11-design-weekly-schedule.md](./11-design-weekly-schedule.md) — **주차별 상세 디자인 일정**
 - [09-weekly-schedule.md](./09-weekly-schedule.md) — 주차별 개발
 - [04-recipes-and-ingredients.md](./04-recipes-and-ingredients.md) — 요리·재료 기획
 - [03-categories-and-synergy.md](./03-categories-and-synergy.md) — 카테고리·기구
